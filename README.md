@@ -1,4 +1,4 @@
-# Authenticate to Google Cloud from GitHub Actions
+#git Aulthenticate to Google Cloud from GitHub Actions
 
 This GitHub Action authenticates to Google Cloud. It supports authentication via
 a Google Cloud Service Account Key JSON and authentication via [Workload
